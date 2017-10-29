@@ -1,6 +1,6 @@
 {
   "name": "react-bare-minimum",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A bare minimum setup to work with react. Compiling and bundling, nothing else.",
   "repository": {
     "url": "git@github.com:krasimir/react-bare-minimum.git",

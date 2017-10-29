@@ -34,3 +34,7 @@ When the build finishes check out the `public` folder. There is an `index.html` 
 * `react`
 * `react-dom`
 * `watchify`
+
+## Misc
+
+[The bare minimum to work with React article](http://krasimirtsonev.com/blog/article/The-bare-minimum-to-work-with-React)
