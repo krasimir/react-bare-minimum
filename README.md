@@ -22,6 +22,8 @@ Once you have the files, run `npm i` (or `yarn install`).
 * `npm run build` (`yarn build`) for building the project once
 * `npm run watch` (`yarn watch`) for run the watcher
 
+When the build finishes check out the `public` folder. There is an `index.html` file and your bundled `app.js`.
+
 ## Dependencies
 
 * `babel-core`
