@@ -17,8 +17,10 @@ A bare minimum setup to work with react. Compiling and bundling, nothing else.
 
 Just download the package. I don't see much of value in using `npm i react-bare-minimum` because the idea is to use it as a working directory.
 
-Once you have the files, run `npm i` (or `yarn install`).
+Once you have the files:
 
+* Make sure that you have a `.babelrc` file with content `{ "presets": ["react", "es2015"] }`
+* Run `npm i` (or `yarn install`).
 * `npm run build` (`yarn build`) for building the project once
 * `npm run watch` (`yarn watch`) for run the watcher
 
