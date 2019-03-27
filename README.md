@@ -19,7 +19,15 @@ Just download the package. I don't see much of value in using `npm i react-bare-
 
 Once you have the files:
 
-* Make sure that you have a `.babelrc` file with content `{ "presets": ["react", "es2015"] }`
+* Make sure that you have a `.babelrc` file with content
+  ```
+  {
+    "presets": [
+      "@babel/preset-react",
+      "@babel/preset-env"
+    ]
+  }
+  ```
 * Run `npm i` (or `yarn install`).
 * `npm run build` (`yarn build`) for building the project once
 * `npm run watch` (`yarn watch`) for run the watcher
